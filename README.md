@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @jppatel123
 - 👀 I’m interested in learing swift language 
-- 🌱 I’m currently learning c language 
-- 💞️ I’m looking to collaborate on starups
+- 🌱 I’m currently learning python language 
 - 📫 reach me through my email = jayppatel5078@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 jppatel123/jppatel123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
