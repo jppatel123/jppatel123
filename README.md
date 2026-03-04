@@ -5,7 +5,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+RISC-V+%7C+VHDL;Bare-metal+Firmware+on+ARM+Cortex-M4;Robotics+%7C+UART+%7C+I2C+%7C+SPI;Computer+Engineering+Student+%40+Iowa+State;Open+to+Embedded+Engineering+Internships+%28Summer+2026%29" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+RISC-V+%7C+VHDL;Robotics+%7C+UART+%7C+I2C+%7C+SPI;Computer+Engineering+Student+%40+Iowa+State;Open+to+Embedded+Engineering+Internships+%28Summer+2026%29" />
 </p>
 
 ---
