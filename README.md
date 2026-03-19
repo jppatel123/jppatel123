@@ -1,11 +1,11 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,100:1e40af&text=Jay%20Patel&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Aspiring%20Embedded%20Systems%20Engineer&descAlign=50&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,100:1e40af&text=Jay%20Patel&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff" />
 </p>
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+RISC-V+%7C+VHDL;Robotics+%7C+UART+%7C+I2C+%7C+SPI;Computer+Engineering+Student+%40+Iowa+State;Open+to+Embedded+Engineering+Internships+%28Summer+2026%29" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Architecture+%7C+CPU+Design+%7C+RISC-V+Processor;Embedded+Systems+%7C+VHDL+%7C+Digital+Design;Robotics+%7C+UART+%7C+I2C+%7C+SPI;Computer+Engineering+Student+%40+Iowa+State;Open+to+Embedded+Engineering+Internships+%28Summer+2026%29" />
 </p>
 
 ---
